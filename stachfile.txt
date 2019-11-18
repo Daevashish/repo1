@@ -1,0 +1,15 @@
+stached file example 	:wq
+
+  309  git branch
+  310  git checkout feature1
+  311  git status
+  312  git stash -u
+  313  git status
+  314  ls
+  315  cat hello.txt
+  316  git checkout master
+  317  ls
+  318  git checkout feature1
+  319  git stash pop
+  320  history
+
